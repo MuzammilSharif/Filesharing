@@ -1,0 +1,82 @@
+
+.mcqpage{
+
+   align-items: center;
+   height: 100%;
+   width :100%
+}
+
+h2{
+    align-items: center; 
+    color: rgb(8, 1, 1);
+}
+
+.radioquestion{
+    
+    margin-left: 10px;
+    margin-bottom: 20px;
+  
+}
+
+.quetext{
+    margin-bottom: -15px;  
+    font-weight: 800;
+    font-size: 150%;
+  }
+
+  input[type=text]{
+    background-color: rgb(234, 181, 215);
+  }
+
+  .RadioButton{
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+
+  .RadioButton{
+    align-items: center;
+    
+  }
+
+  .Radiofbut{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 300px;
+    margin-top: 10%;
+  }
+
+  input{
+    height: 20px;
+    font-size: larger;
+    border-radius: 8px;
+  }
+
+  .addbut{
+    width: 100px;
+    height:30px;
+    border-radius: 8px;
+    font-size: larger;
+   
+    
+  }
+
+  .subbut{
+    width: 100px;
+    height:30px;
+    border-radius: 8px;
+    font-size: larger;
+    box-shadow: 5px 5px 5px rgb(152, 74, 152);
+    
+  }
+
+  .imagel{
+    margin-left: 170px;
+    margin-top: 100px;
+    border-radius: 100%;
+    
+  }
+
+  .textend{
+margin-left: 40px;
+  }

@@ -1,0 +1,57 @@
+body {
+    background-color: #020202;
+}
+
+#main-container {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+
+}
+#lg-out{
+
+    height: 33px;
+    width: 100px;
+    margin: 10px;
+    border-radius: 15px;
+    position: fixed;
+    top: 0%;
+    right: 0%;
+    background: rgb(129, 39, 39);
+    color: white;
+}
+
+h1{
+margin:20px;
+}
+
+#preview-container{
+
+
+}
+
+#preview-text{
+    background: #A7BBEC;
+    height: 50vh;
+    width: 125vh;
+    margin: 28px;
+    border-radius: 15px;
+
+
+
+}
+button{
+    background: greenyellow;
+    height: 30px;
+    width: 100px;
+    color: #020202;
+    display: inline;
+    
+    margin: 14px;
+    border-radius: 10px;
+}
+
+
